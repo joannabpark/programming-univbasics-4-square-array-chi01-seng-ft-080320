@@ -4,5 +4,5 @@ while counter < numbers.length do
   numbers.index ** 2
   counter += 1
 end
-num
+
 end
